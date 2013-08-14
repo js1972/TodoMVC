@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+excluded=//*.css\://*.html\://MIT.LICENSE\://director.js\://jasmine-html.js\://jasmine.js\://sinon*.js
+globals=sap\: true, jQuery\: true, todomvc\: true
+included=WebContent/tests//*\:WebContent/todomvc/*
+projectSpecificOptions=true

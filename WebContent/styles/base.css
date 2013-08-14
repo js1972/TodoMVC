@@ -1,0 +1,19 @@
+#new-todo {
+	font-size: 24px;
+	font-family: inherit;
+	line-height: 1.4em;
+	padding: 16px 16px 16px 10px;	
+}
+
+.todo[data-completed="true"] {
+	color: #a9a9a9;
+	text-decoration: line-through;
+}
+
+#notificationBar {
+    position: fixed;
+    left: 50px;
+    right: 50px;
+    bottom: 0px;
+    height: 40px;
+}
